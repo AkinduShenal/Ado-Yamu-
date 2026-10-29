@@ -1,0 +1,22 @@
+﻿Filename,"Source rectangle x1,y1,x2,y2",Description
+01_Pidurangala_Hero_Visible.png,"1029,83,1268,238",Adventure Details hero scenery; cut below top system bar and overlay icons
+02_Pidurangala_Home_Card.png,"278,255,399,353",Home destination card; may include visible UI badge
+03_Waterfall_Home_Card.png,"408,255,505,353",Home waterfall card; may include visible UI badge
+04_Pidurangala_Details_Thumbnail.png,"1043,449,1114,508",Adventure Details first scenic thumbnail
+05_Sunset_Details_Thumbnail.png,"1116,449,1185,508",Adventure Details second scenic thumbnail
+06_Waterfall_Explore_Hero.png,"533,789,748,863",Explore waterfall scenic card; overlay icon may remain
+07_Beach_Explore_Hero.png,"533,915,749,996",Explore tropical beach card; overlay icon may remain
+08_Pidurangala_Saved_Thumbnail.png,"789,740,845,800",Saved places Pidurangala thumbnail
+09_Waterfall_Saved_Thumbnail.png,"789,815,845,879",Saved places waterfall thumbnail
+10_Beach_Saved_Thumbnail.png,"789,891,845,956",Saved places beach thumbnail
+11_Nine_Arches_Bridge_Saved_Thumbnail.png,"789,967,846,1029",Saved places Nine Arches Bridge thumbnail
+12_Splash_Illustrated_Landscape_Excerpt.png,"13,281,250,475","Splash background excerpt, not complete original art"
+13_Map_View_Excerpt.png,"21,684,239,966",Map mockup excerpt; overlaid markers are part of crop
+14_Adventure_Passport_Badge.png,"297,754,357,818",Passport circular scenery badge
+15_Profile_First_Adventure_Badge.png,"1041,873,1101,928",Achievement badge
+16_Profile_Waterfall_Lover_Badge.png,"1124,873,1186,928",Achievement badge
+17_Profile_Sunset_Chaser_Badge.png,"1199,872,1261,929",Achievement badge
+18_Mood_Chill.png,"279,149,325,195",Mood button icon including background
+19_Mood_Adventure.png,"336,149,382,195",Mood button icon including background
+20_Mood_Food.png,"394,149,439,195",Mood button icon including background
+21_Mood_Romantic.png,"449,149,494,195",Mood button icon including background

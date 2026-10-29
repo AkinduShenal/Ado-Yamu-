@@ -1,0 +1,589 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0328654E5717087916CF8DA5 /* AdoYamu/Core/DesignSystem/DestinationCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 795E50036561CFDB6ABF078F /* AdoYamu/Core/DesignSystem/DestinationCard.swift */; };
+		06F1C0E18B6B903D1A834BBA /* AdoYamu/Resources/Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 38B7A7D7B7B06941F559BDD2 /* AdoYamu/Resources/Localizable.xcstrings */; };
+		18248C3F858DCF360B16FA07 /* AdoYamu/Core/DesignSystem/AdventureFindingScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE85FF24A53B875B8C453E2 /* AdoYamu/Core/DesignSystem/AdventureFindingScene.swift */; };
+		1B00F14B8C2ECE06DB2452D5 /* AdoYamuTests/TripPlanningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69E6ABBD2A689EAC850B951 /* AdoYamuTests/TripPlanningTests.swift */; };
+		1B9E0D7A39622382A090BA9B /* AdoYamu/Services/NearbyPlaceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8384B9C68E6BBCFC3A561904 /* AdoYamu/Services/NearbyPlaceService.swift */; };
+		1D60E86B885BA4F705BCCE38 /* AdoYamu/Features/AdventureDetails/AdventureDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F2A7C0C5163C2B39978252 /* AdoYamu/Features/AdventureDetails/AdventureDetailsView.swift */; };
+		1FF63D619EBABF660BE3D2CB /* AdoYamu/Features/AdventurePlanner/AdventurePlannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5675E6BC72AD34816EDF3542 /* AdoYamu/Features/AdventurePlanner/AdventurePlannerView.swift */; };
+		282DCE73A4C7DF570E9A944F /* AdoYamu/Services/ExplorerStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3532650339A01BC6EE2459 /* AdoYamu/Services/ExplorerStore.swift */; };
+		2C2830D4596EE54836E24EAA /* AdoYamu/Features/Saved/SavedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F522DA08D75553C780BDF9B /* AdoYamu/Features/Saved/SavedView.swift */; };
+		2E7CF633DAA8006E0E8F55D6 /* AdoYamu/Core/DesignSystem/PlacePhotoViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322CE38E937AC458B33DA17A /* AdoYamu/Core/DesignSystem/PlacePhotoViews.swift */; };
+		3FD264E8B796641FA1FF3E78 /* AdoYamu/App/Navigator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7CB134159965394FD77DE1 /* AdoYamu/App/Navigator.swift */; };
+		41D0A11C2E0DB2C38721F52D /* AdoYamu/Features/Home/HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E576CBA3BE3D4EABDCF3F2C /* AdoYamu/Features/Home/HomeView.swift */; };
+		424F5B04684DD9EBDA735BF2 /* AdoYamu/Features/Passport/PassportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D00EACB6FB54013E70B843 /* AdoYamu/Features/Passport/PassportView.swift */; };
+		45BA1CD9CD1F6D6D3729E627 /* AdoYamu/Features/NearbyPlanning/NearbyPlannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F586EEBB9C1E97A04832F1 /* AdoYamu/Features/NearbyPlanning/NearbyPlannerView.swift */; };
+		46B8CD2796BD11D4C2016296 /* AdoYamu/Features/Profile/ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E95AB0C7B2FF0B0162F8105 /* AdoYamu/Features/Profile/ProfileView.swift */; };
+		503C565ACEF999E30A483325 /* AdoYamuUITests/AdventureFlowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50322D44CD1CB3AFF579148A /* AdoYamuUITests/AdventureFlowTests.swift */; };
+		54B14D5C41A1CAE95D9FC4C2 /* AdoYamu/Features/NearbyPlanning/NearbyPlanningModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20565DCA38C47E08CF585ADE /* AdoYamu/Features/NearbyPlanning/NearbyPlanningModel.swift */; };
+		647F7F678A358F219B7FF783 /* AdoYamu/Features/Map/DestinationMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85293B33D16628266624F4BA /* AdoYamu/Features/Map/DestinationMapView.swift */; };
+		686549B2296F01DA93B60322 /* AdoYamuTests/DestinationMatcherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E5799C74C315C9ECE80E30 /* AdoYamuTests/DestinationMatcherTests.swift */; };
+		69DE1E4C2D4B24F04536CB08 /* AdoYamu/Resources/Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 609641D21BDA2E5BC475A278 /* AdoYamu/Resources/Assets.xcassets */; };
+		761CD326ABDEC4A2F022B44B /* AdoYamu/Data/DestinationCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFFFAE26EDA84F4CEAE8BED /* AdoYamu/Data/DestinationCatalog.swift */; };
+		858D530B81203C058F6C21AB /* AdoYamu/Features/Welcome/WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80601AE525F6308EFF036267 /* AdoYamu/Features/Welcome/WelcomeView.swift */; };
+		89F7E0F067BB02174B4392BE /* AdoYamu/Resources/PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = BB0E6C0B0C31008138283928 /* AdoYamu/Resources/PrivacyInfo.xcprivacy */; };
+		8C79DE31A646F5A1DFC49B62 /* AdoYamu/Services/LocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89332ACA19BC1912AA3C9349 /* AdoYamu/Services/LocationService.swift */; };
+		9038BE542EEAD354B539C15A /* AdoYamu/Features/Explore/ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1593B9DD4BFFC9A65ABD280D /* AdoYamu/Features/Explore/ExploreView.swift */; };
+		A2483EEE13B444796CCA57DD /* AdoYamu/Features/NearbyPlanning/TripPlanComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E8D376A3F1BE3C8609EAD9 /* AdoYamu/Features/NearbyPlanning/TripPlanComponents.swift */; };
+		A59DB72E9D13FEFD7239517D /* AdoYamu/Resources/LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD2BE7B2407466B15D6C44BB /* AdoYamu/Resources/LaunchScreen.storyboard */; };
+		A81679417C4E33F639B56029 /* AdoYamu/Services/PlacePhotoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E268C081C4A234D2801A29 /* AdoYamu/Services/PlacePhotoService.swift */; };
+		B9188F4839D56703AAD2F6F5 /* AdoYamu/App/AdoYamuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EEC7849ED9867945C482D8C /* AdoYamu/App/AdoYamuApp.swift */; };
+		BD0D481D92CAC897B4367FA8 /* AdoYamu/Models/Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4070BB217BAC6FC114850F /* AdoYamu/Models/Destination.swift */; };
+		C35AE6E5149D54C6EB16C7F4 /* AdoYamu/Models/TripPlanning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E4C694655B7D7D8ADC20D8 /* AdoYamu/Models/TripPlanning.swift */; };
+		DA2F24CA1C1F88C2C211E9B6 /* AdoYamu/Services/DiscoveryServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F672863A7FD1131CC25BED4 /* AdoYamu/Services/DiscoveryServices.swift */; };
+		E065268340AA50862C1B7846 /* AdoYamu/Features/Profile/SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A62C13DE631E20E5BBB44C /* AdoYamu/Features/Profile/SettingsView.swift */; };
+		EB6368DA94D82318753937D7 /* AdoYamu/Services/JourneyService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033A920D3369EAE95662E73B /* AdoYamu/Services/JourneyService.swift */; };
+		ED5F4D23E2440AEBC5E1249E /* AdoYamu/Resources/PhotoCredits.json in Resources */ = {isa = PBXBuildFile; fileRef = 9CF7DA396C11CAE42631279A /* AdoYamu/Resources/PhotoCredits.json */; };
+		F7423ACD69F39C4840A80217 /* AdoYamu/Core/DesignSystem/Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D608BDC69457358B8B849DB /* AdoYamu/Core/DesignSystem/Theme.swift */; };
+		FC870C8F58113018ACB57E4A /* AdoYamu/Models/Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC50063F33961CB3D27F8B84 /* AdoYamu/Models/Persistence.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		32553105791FDFF9C3384EE9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC660744D465156D98F6D4AC;
+			remoteInfo = AdoYamu;
+		};
+		63B5FB12CF930D7AD2EB703F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC660744D465156D98F6D4AC;
+			remoteInfo = AdoYamu;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		033A920D3369EAE95662E73B /* AdoYamu/Services/JourneyService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Services/JourneyService.swift; sourceTree = SOURCE_ROOT; };
+		06E3743188CE826F464D595C /* AdoYamu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdoYamu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C3532650339A01BC6EE2459 /* AdoYamu/Services/ExplorerStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Services/ExplorerStore.swift; sourceTree = SOURCE_ROOT; };
+		0E576CBA3BE3D4EABDCF3F2C /* AdoYamu/Features/Home/HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Home/HomeView.swift; sourceTree = SOURCE_ROOT; };
+		11E4C694655B7D7D8ADC20D8 /* AdoYamu/Models/TripPlanning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Models/TripPlanning.swift; sourceTree = SOURCE_ROOT; };
+		1593B9DD4BFFC9A65ABD280D /* AdoYamu/Features/Explore/ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Explore/ExploreView.swift; sourceTree = SOURCE_ROOT; };
+		20565DCA38C47E08CF585ADE /* AdoYamu/Features/NearbyPlanning/NearbyPlanningModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/NearbyPlanning/NearbyPlanningModel.swift; sourceTree = SOURCE_ROOT; };
+		2AE85FF24A53B875B8C453E2 /* AdoYamu/Core/DesignSystem/AdventureFindingScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Core/DesignSystem/AdventureFindingScene.swift; sourceTree = SOURCE_ROOT; };
+		2F672863A7FD1131CC25BED4 /* AdoYamu/Services/DiscoveryServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Services/DiscoveryServices.swift; sourceTree = SOURCE_ROOT; };
+		322CE38E937AC458B33DA17A /* AdoYamu/Core/DesignSystem/PlacePhotoViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Core/DesignSystem/PlacePhotoViews.swift; sourceTree = SOURCE_ROOT; };
+		35E268C081C4A234D2801A29 /* AdoYamu/Services/PlacePhotoService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Services/PlacePhotoService.swift; sourceTree = SOURCE_ROOT; };
+		38992A866FBCCD4319F8475D /* AdoYamuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdoYamuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		38B7A7D7B7B06941F559BDD2 /* AdoYamu/Resources/Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = AdoYamu/Resources/Localizable.xcstrings; sourceTree = SOURCE_ROOT; };
+		38D00EACB6FB54013E70B843 /* AdoYamu/Features/Passport/PassportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Passport/PassportView.swift; sourceTree = SOURCE_ROOT; };
+		50322D44CD1CB3AFF579148A /* AdoYamuUITests/AdventureFlowTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamuUITests/AdventureFlowTests.swift; sourceTree = SOURCE_ROOT; };
+		5675E6BC72AD34816EDF3542 /* AdoYamu/Features/AdventurePlanner/AdventurePlannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/AdventurePlanner/AdventurePlannerView.swift; sourceTree = SOURCE_ROOT; };
+		609641D21BDA2E5BC475A278 /* AdoYamu/Resources/Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = AdoYamu/Resources/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		64E5799C74C315C9ECE80E30 /* AdoYamuTests/DestinationMatcherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamuTests/DestinationMatcherTests.swift; sourceTree = SOURCE_ROOT; };
+		6F522DA08D75553C780BDF9B /* AdoYamu/Features/Saved/SavedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Saved/SavedView.swift; sourceTree = SOURCE_ROOT; };
+		795E50036561CFDB6ABF078F /* AdoYamu/Core/DesignSystem/DestinationCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Core/DesignSystem/DestinationCard.swift; sourceTree = SOURCE_ROOT; };
+		79F586EEBB9C1E97A04832F1 /* AdoYamu/Features/NearbyPlanning/NearbyPlannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/NearbyPlanning/NearbyPlannerView.swift; sourceTree = SOURCE_ROOT; };
+		7EEC7849ED9867945C482D8C /* AdoYamu/App/AdoYamuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/App/AdoYamuApp.swift; sourceTree = SOURCE_ROOT; };
+		7FFFFAE26EDA84F4CEAE8BED /* AdoYamu/Data/DestinationCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Data/DestinationCatalog.swift; sourceTree = SOURCE_ROOT; };
+		80601AE525F6308EFF036267 /* AdoYamu/Features/Welcome/WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Welcome/WelcomeView.swift; sourceTree = SOURCE_ROOT; };
+		80E8D376A3F1BE3C8609EAD9 /* AdoYamu/Features/NearbyPlanning/TripPlanComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/NearbyPlanning/TripPlanComponents.swift; sourceTree = SOURCE_ROOT; };
+		8384B9C68E6BBCFC3A561904 /* AdoYamu/Services/NearbyPlaceService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Services/NearbyPlaceService.swift; sourceTree = SOURCE_ROOT; };
+		85293B33D16628266624F4BA /* AdoYamu/Features/Map/DestinationMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Map/DestinationMapView.swift; sourceTree = SOURCE_ROOT; };
+		89332ACA19BC1912AA3C9349 /* AdoYamu/Services/LocationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Services/LocationService.swift; sourceTree = SOURCE_ROOT; };
+		89F2A7C0C5163C2B39978252 /* AdoYamu/Features/AdventureDetails/AdventureDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/AdventureDetails/AdventureDetailsView.swift; sourceTree = SOURCE_ROOT; };
+		8E95AB0C7B2FF0B0162F8105 /* AdoYamu/Features/Profile/ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Profile/ProfileView.swift; sourceTree = SOURCE_ROOT; };
+		92A62C13DE631E20E5BBB44C /* AdoYamu/Features/Profile/SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Features/Profile/SettingsView.swift; sourceTree = SOURCE_ROOT; };
+		94A917969A7C25F306796186 /* AdoYamuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdoYamuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CF7DA396C11CAE42631279A /* AdoYamu/Resources/PhotoCredits.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = AdoYamu/Resources/PhotoCredits.json; sourceTree = SOURCE_ROOT; };
+		9D608BDC69457358B8B849DB /* AdoYamu/Core/DesignSystem/Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Core/DesignSystem/Theme.swift; sourceTree = SOURCE_ROOT; };
+		AC4070BB217BAC6FC114850F /* AdoYamu/Models/Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Models/Destination.swift; sourceTree = SOURCE_ROOT; };
+		BB0E6C0B0C31008138283928 /* AdoYamu/Resources/PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = AdoYamu/Resources/PrivacyInfo.xcprivacy; sourceTree = SOURCE_ROOT; };
+		BD7CB134159965394FD77DE1 /* AdoYamu/App/Navigator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/App/Navigator.swift; sourceTree = SOURCE_ROOT; };
+		C69E6ABBD2A689EAC850B951 /* AdoYamuTests/TripPlanningTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamuTests/TripPlanningTests.swift; sourceTree = SOURCE_ROOT; };
+		CD2BE7B2407466B15D6C44BB /* AdoYamu/Resources/LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = AdoYamu/Resources/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
+		FC50063F33961CB3D27F8B84 /* AdoYamu/Models/Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoYamu/Models/Persistence.swift; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		074185A4DBA19E18BBD332EB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AA67CB7E11D32DCEAA442491 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C0AFBC9BDBC7D9E59622C360 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8BBFCB9AFDF9B7C0E0CA5606 /* AdoYamuUITests */ = {
+			isa = PBXGroup;
+			children = (
+				50322D44CD1CB3AFF579148A /* AdoYamuUITests/AdventureFlowTests.swift */,
+			);
+			name = AdoYamuUITests;
+			sourceTree = "<group>";
+		};
+		AC72F70FFA5B462504379262 /* AdoYamuTests */ = {
+			isa = PBXGroup;
+			children = (
+				1F9D10E7E01C2D3E8A0D248A,
+
+				C69E6ABBD2A689EAC850B951 /* AdoYamuTests/TripPlanningTests.swift */,
+				64E5799C74C315C9ECE80E30 /* AdoYamuTests/DestinationMatcherTests.swift */,
+			);
+			name = AdoYamuTests;
+			sourceTree = "<group>";
+		};
+		B28B7AF69320201D1CF206EB = {
+			isa = PBXGroup;
+			children = (
+				EFEAEC79ED09A64A7FAD8A77 /* AdoYamu */,
+				AC72F70FFA5B462504379262 /* AdoYamuTests */,
+				8BBFCB9AFDF9B7C0E0CA5606 /* AdoYamuUITests */,
+				FBDC4F23F93125BBEEAE800C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EFEAEC79ED09A64A7FAD8A77 /* AdoYamu */ = {
+			isa = PBXGroup;
+			children = (
+				0DBD29E414EF54FC8BB5C534,
+				0255A2677763BFBCF2D99921,
+
+				2AE85FF24A53B875B8C453E2 /* AdoYamu/Core/DesignSystem/AdventureFindingScene.swift */,
+				322CE38E937AC458B33DA17A /* AdoYamu/Core/DesignSystem/PlacePhotoViews.swift */,
+				35E268C081C4A234D2801A29 /* AdoYamu/Services/PlacePhotoService.swift */,
+				79F586EEBB9C1E97A04832F1 /* AdoYamu/Features/NearbyPlanning/NearbyPlannerView.swift */,
+				20565DCA38C47E08CF585ADE /* AdoYamu/Features/NearbyPlanning/NearbyPlanningModel.swift */,
+				80E8D376A3F1BE3C8609EAD9 /* AdoYamu/Features/NearbyPlanning/TripPlanComponents.swift */,
+				11E4C694655B7D7D8ADC20D8 /* AdoYamu/Models/TripPlanning.swift */,
+				2F672863A7FD1131CC25BED4 /* AdoYamu/Services/DiscoveryServices.swift */,
+				033A920D3369EAE95662E73B /* AdoYamu/Services/JourneyService.swift */,
+				8384B9C68E6BBCFC3A561904 /* AdoYamu/Services/NearbyPlaceService.swift */,
+				CD2BE7B2407466B15D6C44BB /* AdoYamu/Resources/LaunchScreen.storyboard */,
+				7EEC7849ED9867945C482D8C /* AdoYamu/App/AdoYamuApp.swift */,
+				BD7CB134159965394FD77DE1 /* AdoYamu/App/Navigator.swift */,
+				795E50036561CFDB6ABF078F /* AdoYamu/Core/DesignSystem/DestinationCard.swift */,
+				9D608BDC69457358B8B849DB /* AdoYamu/Core/DesignSystem/Theme.swift */,
+				7FFFFAE26EDA84F4CEAE8BED /* AdoYamu/Data/DestinationCatalog.swift */,
+				89F2A7C0C5163C2B39978252 /* AdoYamu/Features/AdventureDetails/AdventureDetailsView.swift */,
+				5675E6BC72AD34816EDF3542 /* AdoYamu/Features/AdventurePlanner/AdventurePlannerView.swift */,
+				1593B9DD4BFFC9A65ABD280D /* AdoYamu/Features/Explore/ExploreView.swift */,
+				0E576CBA3BE3D4EABDCF3F2C /* AdoYamu/Features/Home/HomeView.swift */,
+				85293B33D16628266624F4BA /* AdoYamu/Features/Map/DestinationMapView.swift */,
+				38D00EACB6FB54013E70B843 /* AdoYamu/Features/Passport/PassportView.swift */,
+				8E95AB0C7B2FF0B0162F8105 /* AdoYamu/Features/Profile/ProfileView.swift */,
+				92A62C13DE631E20E5BBB44C /* AdoYamu/Features/Profile/SettingsView.swift */,
+				6F522DA08D75553C780BDF9B /* AdoYamu/Features/Saved/SavedView.swift */,
+				80601AE525F6308EFF036267 /* AdoYamu/Features/Welcome/WelcomeView.swift */,
+				AC4070BB217BAC6FC114850F /* AdoYamu/Models/Destination.swift */,
+				FC50063F33961CB3D27F8B84 /* AdoYamu/Models/Persistence.swift */,
+				0C3532650339A01BC6EE2459 /* AdoYamu/Services/ExplorerStore.swift */,
+				89332ACA19BC1912AA3C9349 /* AdoYamu/Services/LocationService.swift */,
+				609641D21BDA2E5BC475A278 /* AdoYamu/Resources/Assets.xcassets */,
+				9CF7DA396C11CAE42631279A /* AdoYamu/Resources/PhotoCredits.json */,
+				BB0E6C0B0C31008138283928 /* AdoYamu/Resources/PrivacyInfo.xcprivacy */,
+				38B7A7D7B7B06941F559BDD2 /* AdoYamu/Resources/Localizable.xcstrings */,
+			);
+			name = AdoYamu;
+			sourceTree = "<group>";
+		};
+		FBDC4F23F93125BBEEAE800C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				06E3743188CE826F464D595C /* AdoYamu.app */,
+				94A917969A7C25F306796186 /* AdoYamuTests.xctest */,
+				38992A866FBCCD4319F8475D /* AdoYamuUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		065713595D3553AAD76EE1E5 /* AdoYamuUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 659546881CE2A960BEEBF7CE /* Build configuration list for PBXNativeTarget "AdoYamuUITests" */;
+			buildPhases = (
+				99F0216D4D55E648554C4610 /* Sources */,
+				C0AFBC9BDBC7D9E59622C360 /* Frameworks */,
+				ED21CF1543B008AC29075781 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				036DF0E2DB8CFF453040BA34 /* PBXTargetDependency */,
+			);
+			name = AdoYamuUITests;
+			productName = AdoYamuUITests;
+			productReference = 38992A866FBCCD4319F8475D /* AdoYamuUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		35C26F0858D4D14AF4203168 /* AdoYamuTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F41FDD308E9E841B36D215CF /* Build configuration list for PBXNativeTarget "AdoYamuTests" */;
+			buildPhases = (
+				61F58FD241FD9D1DF1D4B75E /* Sources */,
+				AA67CB7E11D32DCEAA442491 /* Frameworks */,
+				31DDCC1ECF4E4138E09F0B41 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F65EB43673B94CE1EDB49E73 /* PBXTargetDependency */,
+			);
+			name = AdoYamuTests;
+			productName = AdoYamuTests;
+			productReference = 94A917969A7C25F306796186 /* AdoYamuTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FC660744D465156D98F6D4AC /* AdoYamu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 36EDB6A794A40DA2B7DBE6FB /* Build configuration list for PBXNativeTarget "AdoYamu" */;
+			buildPhases = (
+				F10A5E5E57FD6E3635A21703 /* Sources */,
+				074185A4DBA19E18BBD332EB /* Frameworks */,
+				B9F71113DED3B1B4C43C90F3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AdoYamu;
+			productName = AdoYamu;
+			productReference = 06E3743188CE826F464D595C /* AdoYamu.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		98F54143AB4E86B28C3AFEE0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+			};
+			buildConfigurationList = 862894B703A6DEDF96A9DD6C /* Build configuration list for PBXProject "AdoYamu" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B28B7AF69320201D1CF206EB;
+			productRefGroup = FBDC4F23F93125BBEEAE800C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FC660744D465156D98F6D4AC /* AdoYamu */,
+				35C26F0858D4D14AF4203168 /* AdoYamuTests */,
+				065713595D3553AAD76EE1E5 /* AdoYamuUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		31DDCC1ECF4E4138E09F0B41 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9F71113DED3B1B4C43C90F3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A59DB72E9D13FEFD7239517D /* AdoYamu/Resources/LaunchScreen.storyboard in Resources */,
+				69DE1E4C2D4B24F04536CB08 /* AdoYamu/Resources/Assets.xcassets in Resources */,
+				ED5F4D23E2440AEBC5E1249E /* AdoYamu/Resources/PhotoCredits.json in Resources */,
+				89F7E0F067BB02174B4392BE /* AdoYamu/Resources/PrivacyInfo.xcprivacy in Resources */,
+				06F1C0E18B6B903D1A834BBA /* AdoYamu/Resources/Localizable.xcstrings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED21CF1543B008AC29075781 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		61F58FD241FD9D1DF1D4B75E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				30B57657469FAE96C3E95F02,
+
+				1B00F14B8C2ECE06DB2452D5 /* AdoYamuTests/TripPlanningTests.swift in Sources */,
+				686549B2296F01DA93B60322 /* AdoYamuTests/DestinationMatcherTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99F0216D4D55E648554C4610 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				503C565ACEF999E30A483325 /* AdoYamuUITests/AdventureFlowTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F10A5E5E57FD6E3635A21703 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				54C3665B3F3F38EBC87BE789,
+				0EF6E34426BE898CC1024339,
+
+				18248C3F858DCF360B16FA07 /* AdoYamu/Core/DesignSystem/AdventureFindingScene.swift in Sources */,
+				2E7CF633DAA8006E0E8F55D6 /* AdoYamu/Core/DesignSystem/PlacePhotoViews.swift in Sources */,
+				A81679417C4E33F639B56029 /* AdoYamu/Services/PlacePhotoService.swift in Sources */,
+				45BA1CD9CD1F6D6D3729E627 /* AdoYamu/Features/NearbyPlanning/NearbyPlannerView.swift in Sources */,
+				54B14D5C41A1CAE95D9FC4C2 /* AdoYamu/Features/NearbyPlanning/NearbyPlanningModel.swift in Sources */,
+				A2483EEE13B444796CCA57DD /* AdoYamu/Features/NearbyPlanning/TripPlanComponents.swift in Sources */,
+				C35AE6E5149D54C6EB16C7F4 /* AdoYamu/Models/TripPlanning.swift in Sources */,
+				DA2F24CA1C1F88C2C211E9B6 /* AdoYamu/Services/DiscoveryServices.swift in Sources */,
+				EB6368DA94D82318753937D7 /* AdoYamu/Services/JourneyService.swift in Sources */,
+				1B9E0D7A39622382A090BA9B /* AdoYamu/Services/NearbyPlaceService.swift in Sources */,
+				B9188F4839D56703AAD2F6F5 /* AdoYamu/App/AdoYamuApp.swift in Sources */,
+				3FD264E8B796641FA1FF3E78 /* AdoYamu/App/Navigator.swift in Sources */,
+				0328654E5717087916CF8DA5 /* AdoYamu/Core/DesignSystem/DestinationCard.swift in Sources */,
+				F7423ACD69F39C4840A80217 /* AdoYamu/Core/DesignSystem/Theme.swift in Sources */,
+				761CD326ABDEC4A2F022B44B /* AdoYamu/Data/DestinationCatalog.swift in Sources */,
+				1D60E86B885BA4F705BCCE38 /* AdoYamu/Features/AdventureDetails/AdventureDetailsView.swift in Sources */,
+				1FF63D619EBABF660BE3D2CB /* AdoYamu/Features/AdventurePlanner/AdventurePlannerView.swift in Sources */,
+				9038BE542EEAD354B539C15A /* AdoYamu/Features/Explore/ExploreView.swift in Sources */,
+				41D0A11C2E0DB2C38721F52D /* AdoYamu/Features/Home/HomeView.swift in Sources */,
+				647F7F678A358F219B7FF783 /* AdoYamu/Features/Map/DestinationMapView.swift in Sources */,
+				424F5B04684DD9EBDA735BF2 /* AdoYamu/Features/Passport/PassportView.swift in Sources */,
+				46B8CD2796BD11D4C2016296 /* AdoYamu/Features/Profile/ProfileView.swift in Sources */,
+				E065268340AA50862C1B7846 /* AdoYamu/Features/Profile/SettingsView.swift in Sources */,
+				2C2830D4596EE54836E24EAA /* AdoYamu/Features/Saved/SavedView.swift in Sources */,
+				858D530B81203C058F6C21AB /* AdoYamu/Features/Welcome/WelcomeView.swift in Sources */,
+				BD0D481D92CAC897B4367FA8 /* AdoYamu/Models/Destination.swift in Sources */,
+				FC870C8F58113018ACB57E4A /* AdoYamu/Models/Persistence.swift in Sources */,
+				282DCE73A4C7DF570E9A944F /* AdoYamu/Services/ExplorerStore.swift in Sources */,
+				8C79DE31A646F5A1DFC49B62 /* AdoYamu/Services/LocationService.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		036DF0E2DB8CFF453040BA34 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FC660744D465156D98F6D4AC /* AdoYamu */;
+			targetProxy = 32553105791FDFF9C3384EE9 /* PBXContainerItemProxy */;
+		};
+		F65EB43673B94CE1EDB49E73 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FC660744D465156D98F6D4AC /* AdoYamu */;
+			targetProxy = 63B5FB12CF930D7AD2EB703F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		024BE88EC52BF6E4EF368B92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lk.adoyamu.app.AdoYamuUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = AdoYamu;
+			};
+			name = Release;
+		};
+		06AC3C1B6641090E0E574712 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lk.adoyamu.app.AdoYamuTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AdoYamu.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AdoYamu";
+			};
+			name = Release;
+		};
+		1C6332C759B35B5B3487F3CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_COMPILATION_MODE = singlefile;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2EB499391025C9E4CF98EAD2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lk.adoyamu.app.AdoYamuTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AdoYamu.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AdoYamu";
+			};
+			name = Debug;
+		};
+		6918AB8DD9FE97D75B8908BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lk.adoyamu.app.AdoYamuUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = AdoYamu;
+			};
+			name = Debug;
+		};
+		8B7212A5EF49F64ACD4F072A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		92122DAEEF3FE04E92D110C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = B3Z57GJJY8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = AdoYamu/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lk.adoyamu.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D6F7F41E0B343A7969FDFD35 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = B3Z57GJJY8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = AdoYamu/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = lk.adoyamu.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		36EDB6A794A40DA2B7DBE6FB /* Build configuration list for PBXNativeTarget "AdoYamu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				92122DAEEF3FE04E92D110C6 /* Debug */,
+				D6F7F41E0B343A7969FDFD35 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		659546881CE2A960BEEBF7CE /* Build configuration list for PBXNativeTarget "AdoYamuUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6918AB8DD9FE97D75B8908BC /* Debug */,
+				024BE88EC52BF6E4EF368B92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		862894B703A6DEDF96A9DD6C /* Build configuration list for PBXProject "AdoYamu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1C6332C759B35B5B3487F3CD /* Debug */,
+				8B7212A5EF49F64ACD4F072A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F41FDD308E9E841B36D215CF /* Build configuration list for PBXNativeTarget "AdoYamuTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EB499391025C9E4CF98EAD2 /* Debug */,
+				06AC3C1B6641090E0E574712 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+		0DBD29E414EF54FC8BB5C534 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdoYamu/Core/DesignSystem/FeelingCheckInView.swift"; sourceTree = SOURCE_ROOT; };
+		54C3665B3F3F38EBC87BE789 = { isa = PBXBuildFile; fileRef = 0DBD29E414EF54FC8BB5C534; };
+		0255A2677763BFBCF2D99921 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdoYamu/Models/Personalization.swift"; sourceTree = SOURCE_ROOT; };
+		0EF6E34426BE898CC1024339 = { isa = PBXBuildFile; fileRef = 0255A2677763BFBCF2D99921; };
+
+		1F9D10E7E01C2D3E8A0D248A = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdoYamuTests/PersonalizationTests.swift"; sourceTree = SOURCE_ROOT; };
+		30B57657469FAE96C3E95F02 = { isa = PBXBuildFile; fileRef = 1F9D10E7E01C2D3E8A0D248A; };
+	};
+	rootObject = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+}

@@ -1,0 +1,1855 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@ · %@ District" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ · %@ District"
+          }
+        }
+      }
+    },
+    "%@ · %lld min at the place" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$lld min at the place"
+          }
+        }
+      }
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@"
+          }
+        }
+      }
+    },
+    "%@ band" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ band"
+          }
+        }
+      }
+    },
+    "%@ band · %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ band · %@"
+          }
+        }
+      }
+    },
+    "%@ photograph" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ photograph"
+          }
+        }
+      }
+    },
+    "%@ scenery" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ scenery"
+          }
+        }
+      }
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, %@"
+          }
+        }
+      }
+    },
+    "%@. Both legs included; actual conditions may vary." : {
+
+    },
+    "%lld fit your estimates · %lld need costs or time · %lld exceed the plan" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld fit your estimates · %2$lld need costs or time · %3$lld exceed the plan"
+          }
+        }
+      }
+    },
+    "%lld km" : {
+
+    },
+    "%lld min" : {
+
+    },
+    "%lld min incl. travel" : {
+
+    },
+    "%lld min total" : {
+
+    },
+    "%lld of %lld places explored" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld of %lld places explored"
+          }
+        }
+      }
+    },
+    "%lld outside your plan" : {
+
+    },
+    "%lld places to discover" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld places to discover"
+          }
+        }
+      }
+    },
+    "%lld places to make your day" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld places to make your day"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        }
+      }
+    },
+    "© OpenStreetMap contributors" : {
+
+    },
+    "1 hour" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 hour"
+          }
+        }
+      }
+    },
+    "2–3 hours" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2–3 hours"
+          }
+        }
+      }
+    },
+    "A little about you. A little spontaneity.\nWe’ll find your kind of escape." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little about you. A little spontaneity.\nWe’ll find your kind of escape."
+          }
+        }
+      }
+    },
+    "A little adventure awaits" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little adventure awaits"
+          }
+        }
+      }
+    },
+    "A little moment, kept forever." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little moment, kept forever."
+          }
+        }
+      }
+    },
+    "A little spontaneous. A lot of Sri Lanka." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little spontaneous. A lot of Sri Lanka."
+          }
+        }
+      }
+    },
+    "A new story. A new stamp." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A new story. A new stamp."
+          }
+        }
+      }
+    },
+    "A playful, offline-first collection of places to explore in Sri Lanka. Built with native SwiftUI, SwiftData and MapKit. Version 1.0." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A playful, offline-first collection of places to explore in Sri Lanka. Built with native SwiftUI, SwiftData and MapKit. Version 1.0."
+          }
+        }
+      }
+    },
+    "A small escape, chosen just for you." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A small escape, chosen just for you."
+          }
+        }
+      }
+    },
+    "A story still to come" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A story still to come"
+          }
+        }
+      }
+    },
+    "About Ado Yamu!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Ado Yamu!"
+          }
+        }
+      }
+    },
+    "Achievements" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achievements"
+          }
+        }
+      }
+    },
+    "Add photo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add photo"
+          }
+        }
+      }
+    },
+    "Adjust my preferences" : {
+
+    },
+    "Ado\nYamu!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ado\nYamu!"
+          }
+        }
+      }
+    },
+    "Ado Yamu!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ado Yamu!"
+          }
+        }
+      }
+    },
+    "Ado Yamu! 🌴" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ado Yamu! 🌴"
+          }
+        }
+      }
+    },
+    "Adventure" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adventure"
+          }
+        }
+      }
+    },
+    "Adventure reminders and settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adventure reminders and settings"
+          }
+        }
+      }
+    },
+    "All" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All"
+          }
+        }
+      }
+    },
+    "All experiences welcome. Pick a favourite above to personalize your results." : {
+
+    },
+    "All moods welcome" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All moods welcome"
+          }
+        }
+      }
+    },
+    "Around %@ · curated picks" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Around %@ · curated picks"
+          }
+        }
+      }
+    },
+    "Attach a photo to a place you’ve visited. Photos stay in your on-device journal." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attach a photo to a place you’ve visited. Photos stay in your on-device journal."
+          }
+        }
+      }
+    },
+    "Ayubowan, %@ ☀️" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayubowan, %@ ☀️"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "Beaches" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beaches"
+          }
+        }
+      }
+    },
+    "Budget is an illustrative planning band, not an admission fee. Visit duration excludes travel. Confirm local access before leaving." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Budget is an illustrative planning band, not an admission fee. Visit duration excludes travel. Confirm local access before leaving."
+          }
+        }
+      }
+    },
+    "Bundled sample ideas, available offline.\nFor a full return-trip budget, choose Online nearby." : {
+
+    },
+    "Cancel search" : {
+
+    },
+    "Change" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change"
+          }
+        }
+      }
+    },
+    "Check costs" : {
+
+    },
+    "Check journey time" : {
+
+    },
+    "Check missing costs or time to unlock a budget match." : {
+
+    },
+    "Check place on %@" : {
+
+    },
+    "Check the missing costs or time before treating these as a budget match." : {
+
+    },
+    "Check travel time" : {
+
+    },
+    "Check venue access" : {
+
+    },
+    "Checking route…" : {
+
+    },
+    "Chill" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chill"
+          }
+        }
+      }
+    },
+    "Choose a city in Settings to filter nearby places without location access." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a city in Settings to filter nearby places without location access."
+          }
+        }
+      }
+    },
+    "Choose a starting point" : {
+
+    },
+    "Choose one or more. We’ll remember your choices for when you select %@." : {
+
+    },
+    "Chosen from bundled places. No connection needed." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chosen from bundled places. No connection needed."
+          }
+        }
+      }
+    },
+    "City selections include places within 120 km, measured in a straight line." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "City selections include places within 120 km, measured in a straight line."
+          }
+        }
+      }
+    },
+    "Clear search" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear search"
+          }
+        }
+      }
+    },
+    "Collect stamps as you explore\nbeautiful places in Sri Lanka!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect stamps as you explore\nbeautiful places in Sri Lanka!"
+          }
+        }
+      }
+    },
+    "Coordinates are not available for this place." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coordinates are not available for this place."
+          }
+        }
+      }
+    },
+    "Costs are your estimates. Venue prices and availability need checking." : {
+
+    },
+    "Costs need checking" : {
+
+    },
+    "Couldn’t open your adventure journal" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t open your adventure journal"
+          }
+        }
+      }
+    },
+    "Couldn’t save changes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t save changes"
+          }
+        }
+      }
+    },
+    "Culture" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Culture"
+          }
+        }
+      }
+    },
+    "Details" : {
+
+    },
+    "Different days, different escapes. Choose what feels right for you." : {
+
+    },
+    "Discover amazing places across Sri Lanka" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discover amazing places across Sri Lanka"
+          }
+        }
+      }
+    },
+    "Discover little adventures\nin Sri Lanka" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discover little adventures\nin Sri Lanka"
+          }
+        }
+      }
+    },
+    "Discovered on %@" : {
+
+    },
+    "Done" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "Earned!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Earned!"
+          }
+        }
+      }
+    },
+    "Edit cost / time" : {
+
+    },
+    "Edit preferences" : {
+
+    },
+    "Edit your personal adventure preferences" : {
+
+    },
+    "English" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English"
+          }
+        }
+      }
+    },
+    "Enlarge photo of %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlarge photo of %@"
+          }
+        }
+      }
+    },
+    "Enter amounts you’ve checked or your own planning estimates. A blank entry fee remains unknown; it is never treated as free." : {
+
+    },
+    "Every little adventure counts." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every little adventure counts."
+          }
+        }
+      }
+    },
+    "Explore" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore"
+          }
+        }
+      }
+    },
+    "Explore %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore %@"
+          }
+        }
+      }
+    },
+    "Explore nature" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore nature"
+          }
+        }
+      }
+    },
+    "Explore places" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore places"
+          }
+        }
+      }
+    },
+    "Explorer name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explorer name"
+          }
+        }
+      }
+    },
+    "Exploring Sri Lanka, one adventure\nat a time. 🇱🇰" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exploring Sri Lanka, one adventure\nat a time. 🇱🇰"
+          }
+        }
+      }
+    },
+    "Fallback city" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallback city"
+          }
+        }
+      }
+    },
+    "Favourites, visits, trip ideas, preferences and photo memories are stored on this device. No account or app-operated backend is used. Online search sends your chosen starting area to Apple Maps. Photo lookup uses that area with Wikimedia; route estimates can also use OpenStreetMap/FOSSGIS. Location is requested only when you tap a location control; you can always choose a city instead." : {
+
+    },
+    "Favourites, visits, trip ideas, preferences and photo memories are stored on this device. No account or backend is used. Location is requested only when you tap a location control; you can always choose a city instead." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favourites, visits, trip ideas, preferences and photo memories are stored on this device. No account or backend is used. Location is requested only when you tap a location control; you can always choose a city instead."
+          }
+        }
+      }
+    },
+    "Feeling %@" : {
+
+    },
+    "Fetched %@" : {
+
+    },
+    "Find an adventure" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find an adventure"
+          }
+        }
+      }
+    },
+    "Finding\nyour adventure…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding\nyour adventure…"
+          }
+        }
+      }
+    },
+    "Finding your location…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding your location…"
+          }
+        }
+      }
+    },
+    "Fit all markers" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fit all markers"
+          }
+        }
+      }
+    },
+    "Fix the map" : {
+
+    },
+    "Food" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Food"
+          }
+        }
+      }
+    },
+    "Get Started" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Started"
+          }
+        }
+      }
+    },
+    "Half day" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Half day"
+          }
+        }
+      }
+    },
+    "Hiking" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiking"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "Illustrative planning bands · not admission prices. Travel costs excluded." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Illustrative planning bands · not admission prices. Travel costs excluded."
+          }
+        }
+      }
+    },
+    "Include both fares or fuel, parking & tolls. This allowance applies to each result; it is not a live fare." : {
+
+    },
+    "Include both journeys, waiting and transfers. For bus/train routes that aren’t available online, enter a time you have checked." : {
+
+    },
+    "Includes getting there, enjoying the place & coming home." : {
+
+    },
+    "iOS may include app data in your device backups. Uninstalling the app removes its local journal." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS may include app data in your device backups. Uninstalling the app removes its local journal."
+          }
+        }
+      }
+    },
+    "Keep a little adventure for later." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep a little adventure for later."
+          }
+        }
+      }
+    },
+    "Keep exploring" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep exploring"
+          }
+        }
+      }
+    },
+    "Let’s pick a surprise adventure for you!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let’s pick a surprise adventure for you!"
+          }
+        }
+      }
+    },
+    "Little adventures. Lasting memories." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Little adventures. Lasting memories."
+          }
+        }
+      }
+    },
+    "Loading photo" : {
+
+    },
+    "Loading photo of %@" : {
+
+    },
+    "Made for the joy of a little detour." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made for the joy of a little detour."
+          }
+        }
+      }
+    },
+    "Make it your kind of trip" : {
+
+    },
+    "Map & Directions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map & Directions"
+          }
+        }
+      }
+    },
+    "Map preview" : {
+
+    },
+    "Map preview of %@" : {
+
+    },
+    "Map tiles and navigation require an internet connection. Place details remain available offline." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map tiles and navigation require an internet connection. Place details remain available offline."
+          }
+        }
+      }
+    },
+    "Map unavailable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map unavailable"
+          }
+        }
+      }
+    },
+    "Mark as Visited" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mark as Visited"
+          }
+        }
+      }
+    },
+    "Matched by venue name and coordinates. Images are cropped to fit cards; source and license links are preserved." : {
+
+    },
+    "Motorbike times use driving-route estimates." : {
+
+    },
+    "My Adventure Passport" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Adventure Passport"
+          }
+        }
+      }
+    },
+    "Nature" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nature"
+          }
+        }
+      }
+    },
+    "Nearby" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nearby"
+          }
+        }
+      }
+    },
+    "Nearby places come from Apple Maps and photo-backed Wikipedia landmarks. Route times include both journeys where available, using Apple Maps with an OpenStreetMap/FOSSGIS fallback. Motorbike times use driving routes. Unknown prices remain unknown until you enter an estimate; transport and food allowances are your inputs." : {
+
+    },
+    "Need an Idea?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Need an Idea?"
+          }
+        }
+      }
+    },
+    "No curated places nearby match your choices yet. Try Online nearby or adjust your preferences." : {
+
+    },
+    "No entry or activity spending planned: Rs. 0" : {
+
+    },
+    "OK" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Online search does not supply admission prices or a visit duration. Use your trip plan and confirm prices and access with the venue." : {
+
+    },
+    "Open Apple Maps to check route availability." : {
+
+    },
+    "Open iOS Settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open iOS Settings"
+          }
+        }
+      }
+    },
+    "Open up my options" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open up my options"
+          }
+        }
+      }
+    },
+    "Optional" : {
+
+    },
+    "Optional feeling check-ins and your preferred experiences stay on this device. Each check-in applies today; your choices can be recalled when you select that feeling again. Online search uses the kinds of places you choose, not your feeling label." : {
+
+    },
+    "Phone: %@" : {
+
+    },
+    "Photo license · cropped to fit" : {
+
+    },
+    "Photo loaded" : {
+
+    },
+    "Photo Memories" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photo Memories"
+          }
+        }
+      }
+    },
+    "Photo source" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photo source"
+          }
+        }
+      }
+    },
+    "Photo unavailable" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photo unavailable"
+          }
+        }
+      }
+    },
+    "Photo unavailable, showing map" : {
+
+    },
+    "Photo: %@" : {
+
+    },
+    "Photos where available. Live entry prices & fares need checking." : {
+
+    },
+    "Place photos: matching Wikimedia Commons images where available. Credits and licenses are shown with each photo and in About." : {
+
+    },
+    "Places" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Places"
+          }
+        }
+      }
+    },
+    "Places to make your day, near your starting point." : {
+
+    },
+    "Places: Apple Maps & Wikipedia landmarks. Route estimates: Apple Maps, with OpenStreetMap/FOSSGIS fallback where available. Costs are your estimates." : {
+
+    },
+    "Plan a surprise adventure" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan a surprise adventure"
+          }
+        }
+      }
+    },
+    "Plan Your Adventure" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plan Your Adventure"
+          }
+        }
+      }
+    },
+    "Please restart the app. Your stored data has not been replaced. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please restart the app. Your stored data has not been replaced. %@"
+          }
+        }
+      }
+    },
+    "Profile" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "Relax & unwind" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relax & unwind"
+          }
+        }
+      }
+    },
+    "Remove photo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove photo"
+          }
+        }
+      }
+    },
+    "Remove trip idea for %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove trip idea for %@"
+          }
+        }
+      }
+    },
+    "Reset choices" : {
+
+    },
+    "Reset feeling & experience choices" : {
+
+    },
+    "Return route checks" : {
+
+    },
+    "Romantic" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Romantic"
+          }
+        }
+      }
+    },
+    "Route and ETA are available in Apple Maps." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Route and ETA are available in Apple Maps."
+          }
+        }
+      }
+    },
+    "Routing service & privacy" : {
+
+    },
+    "Rs." : {
+
+    },
+    "Rs. %lld est." : {
+
+    },
+    "Rs. %lld estimated" : {
+
+    },
+    "Rs. 1,000" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rs. 1,000"
+          }
+        }
+      }
+    },
+    "Rs. 3,000+" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rs. 3,000+"
+          }
+        }
+      }
+    },
+    "Rs. 500" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rs. 500"
+          }
+        }
+      }
+    },
+    "Saturdays at 9:00 AM, your local time" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saturdays at 9:00 AM, your local time"
+          }
+        }
+      }
+    },
+    "Save my estimates" : {
+
+    },
+    "Save trip idea" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save trip idea"
+          }
+        }
+      }
+    },
+    "Saved" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved"
+          }
+        }
+      }
+    },
+    "Saved on this device. Check in again tomorrow." : {
+
+    },
+    "Saved Places" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved Places"
+          }
+        }
+      }
+    },
+    "Search again" : {
+
+    },
+    "Search radius" : {
+
+    },
+    "Searching nearby adventures" : {
+
+    },
+    "See all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See all"
+          }
+        }
+      }
+    },
+    "Set your preferences and we’ll find\nlittle adventures near you!" : {
+
+    },
+    "Setting up your reminder…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setting up your reminder…"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "Share %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share %@"
+          }
+        }
+      }
+    },
+    "Show my location" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show my location"
+          }
+        }
+      }
+    },
+    "Show my match" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show my match"
+          }
+        }
+      }
+    },
+    "Show satellite map" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show satellite map"
+          }
+        }
+      }
+    },
+    "Show standard map" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show standard map"
+          }
+        }
+      }
+    },
+    "Sinhala and Tamil translations are planned. Place names are currently shown in English." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinhala and Tamil translations are planned. Place names are currently shown in English."
+          }
+        }
+      }
+    },
+    "Skip" : {
+
+    },
+    "Small plans. Beautiful memories." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Small plans. Beautiful memories."
+          }
+        }
+      }
+    },
+    "Special moments" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Special moments"
+          }
+        }
+      }
+    },
+    "Sri Lanka Tourism" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sri Lanka Tourism"
+          }
+        }
+      }
+    },
+    "Stamped in your passport" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stamped in your passport"
+          }
+        }
+      }
+    },
+    "Stamps are earned only when you mark a place as visited. Your story, at your pace." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stamps are earned only when you mark a place as visited. Your story, at your pace."
+          }
+        }
+      }
+    },
+    "Start Navigation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Navigation"
+          }
+        }
+      }
+    },
+    "Starting at %@ city centre" : {
+
+    },
+    "Starting city" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting city"
+          }
+        }
+      }
+    },
+    "Still to discover" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Still to discover"
+          }
+        }
+      }
+    },
+    "Suggested budgets and visit durations are illustrative. They are not verified admission fees, opening times, travel times or availability. The local collection does not include live conditions. Map pins are approximate destination locations; follow official access signs and local guidance." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suggested budgets and visit durations are illustrative. They are not verified admission fees, opening times, travel times or availability. The local collection does not include live conditions. Map pins are approximate destination locations; follow official access signs and local guidance."
+          }
+        }
+      }
+    },
+    "Surprise" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Surprise"
+          }
+        }
+      }
+    },
+    "Surprise Me!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Surprise Me!"
+          }
+        }
+      }
+    },
+    "Taste local gems" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taste local gems"
+          }
+        }
+      }
+    },
+    "The app checks your whole budget and both journeys. Unknown admission fees remain unknown until you add an estimate." : {
+
+    },
+    "The welcome landscape is an AI-generated illustration inspired by the supplied design, rather than a geographic photograph. Destination photographs below are bundled for offline use. UI icons use SF Symbols." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The welcome landscape is an AI-generated illustration inspired by the supplied design, rather than a geographic photograph. Destination photographs below are bundled for offline use. UI icons use SF Symbols."
+          }
+        }
+      }
+    },
+    "Time to enjoy the place, excluding your journey." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time to enjoy the place, excluding your journey."
+          }
+        }
+      }
+    },
+    "Travel & spending" : {
+
+    },
+    "Trip cost & time" : {
+
+    },
+    "Trip estimate" : {
+
+    },
+    "Trip idea saved" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trip idea saved"
+          }
+        }
+      }
+    },
+    "Trips" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trips"
+          }
+        }
+      }
+    },
+    "Try another" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try another"
+          }
+        }
+      }
+    },
+    "Up to 12 discoveries and 8 automatic return-route checks. Photos are shown only when a matching source is available." : {
+
+    },
+    "Use current location" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use current location"
+          }
+        }
+      }
+    },
+    "Use my location" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use my location"
+          }
+        }
+      }
+    },
+    "Use the online route time instead" : {
+
+    },
+    "Use these preferences" : {
+
+    },
+    "Using your current location" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Using your current location"
+          }
+        }
+      }
+    },
+    "Venue phone: %@" : {
+
+    },
+    "Venue website" : {
+
+    },
+    "View Map & Directions" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View Map & Directions"
+          }
+        }
+      }
+    },
+    "View photo" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View photo"
+          }
+        }
+      }
+    },
+    "View source on %@" : {
+
+    },
+    "Visit time" : {
+
+    },
+    "Waterfalls" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waterfalls"
+          }
+        }
+      }
+    },
+    "We’ll match any selected mood" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We’ll match any selected mood"
+          }
+        }
+      }
+    },
+    "Weekend adventure reminder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weekend adventure reminder"
+          }
+        }
+      }
+    },
+    "What kind of day are you in for?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What kind of day are you in for?"
+          }
+        }
+      }
+    },
+    "What would feel right today?" : {
+
+    },
+    "Whole trip: return transport, entry & food." : {
+
+    },
+    "Within 120 km · straight-line radius" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Within 120 km · straight-line radius"
+          }
+        }
+      }
+    },
+    "Within 120 km of %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Within 120 km of %@"
+          }
+        }
+      }
+    },
+    "Within 120 km of your location" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Within 120 km of your location"
+          }
+        }
+      }
+    },
+    "Your location" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your location"
+          }
+        }
+      }
+    },
+    "Your photo from %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your photo from %@"
+          }
+        }
+      }
+    },
+    "Your places. Your stories. Your stamps." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your places. Your stories. Your stamps."
+          }
+        }
+      }
+    },
+    "Your return-journey estimate: %lld min. Visit: %lld min." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your return-journey estimate: %1$lld min. Visit: %2$lld min."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
